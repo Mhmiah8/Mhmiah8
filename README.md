@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hello, I'm Mohammed Miah 👋
 
-<!--
-**Mhmiah8/Mhmiah8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Software Developer** passionate about building innovative solutions. Currently studying **BSc in Computer Science** at UCL. My focus is on **Full-stack Development**, **App Development**, and **Cybersecurity**. 
 
-Here are some ideas to get you started:
+### 🌱 Technologies & Tools I Use:
+- **Frontend**: HTML, CSS, JavaScript, React, Vue.js
+- **Backend**: Node.js, Express.js, Python, Django
+- **Databases**: MySQL, MongoDB
+- **Cloud**: AWS, GCP
+- **Cybersecurity**: Ethical Hacking, Penetration Testing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Projects I’m Working On:
+- **Full-stack Portfolio Website**: Showcasing my skills, projects, and achievements.
+- **Browser Extension**: Productivity extension with custom shortcuts.
+
+### 📫 How to reach me:
+- Email: [mmiahhilal1@gmail.com](mailto:mmiahhilal1@gmail.com)
+- GitHub: [Mhmiah8](https://github.com/Mhmiah8)
+- LinkedIn: [Mohammed Miah](https://www.linkedin.com/in/mohammed-miah/)
+
+---
+
+Feel free to explore my repositories and let's connect! 🚀
+
