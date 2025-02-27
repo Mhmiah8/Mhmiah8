@@ -1,6 +1,6 @@
 # Hello, I'm Mohammed Miah 👋
 
-I’m a **Software Developer** passionate about building innovative solutions. Currently studying **BSc in Computer Science** at UCL. My focus is on **Full-stack Development**, **App Development**, and **Cybersecurity**. 
+I’m a **Software Developer** passionate about building innovative solutions. Currently studying **BSc in Computer Science** at Westminster. My focus is on **Full-stack Development**, **App Development**, and **Cybersecurity**. 
 
 ### 🌱 Technologies & Tools I Use:
 - **Frontend**: HTML, CSS, JavaScript, React, Vue.js
