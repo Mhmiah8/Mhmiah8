@@ -24,8 +24,7 @@ I'm an **Undergraduate Computer Science student at the University of Westminster
 
 ### 📫 How to reach me:
 - Email: [mmiahhilal1@gmail.com](mailto:mmiahhilal1@gmail.com)
-- GitHub: [Mhmiah8](https://github.com/Mhmiah8)
-- LinkedIn: [Mohammed Miah](https://www.linkedin.com/in/mohammed-miah/)
+- LinkedIn: [Mohammed Miah](https://www.linkedin.com/in/mohammedmiah0/)
 
 ---
 
