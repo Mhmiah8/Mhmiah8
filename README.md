@@ -1,17 +1,26 @@
-# Hello, I'm Mohammed Miah 👋
+# 👋 Hi, I'm Mohammed
 
-I’m a **Software Developer** passionate about building innovative solutions. Currently studying **BSc in Computer Science** at Westminster. My focus is on **Full-stack Development**, **App Development**, and **Cybersecurity**. 
+I'm an **Undergraduate Computer Science student at the University of Westminster** with a strong interest in backend development, databases, and building practical tools.
 
-### 🌱 Technologies & Tools I Use:
-- **Frontend**: HTML, CSS, JavaScript, React, Vue.js
-- **Backend**: Node.js, Express.js, Python, Django
-- **Databases**: MySQL, MongoDB
-- **Cloud**: AWS, GCP
-- **Cybersecurity**: Ethical Hacking, Penetration Testing
+### 🚀 Current Projects
+- 📦 **[DeliveryStats](https://github.com/Mhmiah8/DeliveryStats)** — A crowdsourced platform showing live delivery stats for London couriers (React + Firebase).
+- 🧠 **AI Workbench (WIP)** — A backend system using Python + PostgreSQL for AI experiment management.
+- 🧩 **[Unlimited Chrome Shortcuts Extension](https://github.com/Mhmiah8/Unlimited-Shortcuts-Chrome-Extension/tree/main)** — An extension that allows more than 10 shortcuts, built with JavaScript and the Chrome Extensions API.
+- 🌐 **Open Source Contributions** — Doing whatever i can.
 
-### 💼 Projects I’m Working On:
-- **Full-stack Portfolio Website**: Showcasing my skills, projects, and achievements.
-- **Browser Extension**: Productivity extension with custom shortcuts.
+### 🛠️ Tech Stack
+- **Languages:** Python, JavaScript, SQL  
+- **Frontend:** React, Tailwind CSS  
+- **Backend:** Flask, Firebase, PostgreSQL  
+- **Tools:** Git, GitHub, pgAdmin, Postman
+
+### 📈 Goals
+- Gain real-world experience through open source and part-time developer roles  
+- Strengthen backend/database development skills  
+- Explore AI integrations in web projects
+- Network with like minded individuals
+
+📫 Feel free to connect or check out my work below.
 
 ### 📫 How to reach me:
 - Email: [mmiahhilal1@gmail.com](mailto:mmiahhilal1@gmail.com)
