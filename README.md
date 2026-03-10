@@ -10,6 +10,7 @@ I'm an **Undergraduate Computer Science student at the University of Westminster
 - 📦 **[DeliveryStats](https://github.com/Mhmiah8/DeliveryStats)** — A crowdsourced platform showing live delivery stats for London couriers (React + Firebase).
 - 🤖 **AI Workbench (WIP)** — A backend system using Python + PostgreSQL for AI experiment management.
 - 🧩 **[Unlimited Chrome Shortcuts Extension](https://github.com/Mhmiah8/Unlimited-Shortcuts-Chrome-Extension/tree/main)** — An extension that allows more than 10 shortcuts, built with JavaScript and the Chrome Extensions API. (Currently over **2000** Users)
+- 📱 **[CalQuiz](https://play.google.com/store/apps/details?id=com.mhmiah8.calquiz&hl=en_GB)** - An educational Mobile app game available on google play store that trains you to estimate macronutrients better. (Currently over **50** Users)
 - 🌐 **Open Source Contributions** — Doing whatever i can. (Recently contributed to a drugbase helping to combat parasitic worms)
 
 ### 🛠️ Tech Stack
