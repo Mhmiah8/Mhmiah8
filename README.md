@@ -3,10 +3,14 @@
 I'm an **Undergraduate Computer Science student at the University of Westminster** with a strong interest in backend development, databases, and building practical tools.
 
 ### 🚀 Current Projects
+- 🧠 **[StudentStack](https://mhmiah8.github.io/StudentStack/profile.html)** - The ultimate dashboard for Tech students. Access internships, verified course notes, hackathons, and funding opportunities in one place. 
+Frontend	: HTML5, Tailwind CSS, Vanilla JavaScript. 
+Backend : Firebase Auth, Cloud Firestore, Firebase Storage
+Automation : GitHub Actions, Python Scrapers, Daily 6AM UTC cron (Sourced from Trackr, Luma, UCAS APIs)
 - 📦 **[DeliveryStats](https://github.com/Mhmiah8/DeliveryStats)** — A crowdsourced platform showing live delivery stats for London couriers (React + Firebase).
-- 🧠 **AI Workbench (WIP)** — A backend system using Python + PostgreSQL for AI experiment management.
-- 🧩 **[Unlimited Chrome Shortcuts Extension](https://github.com/Mhmiah8/Unlimited-Shortcuts-Chrome-Extension/tree/main)** — An extension that allows more than 10 shortcuts, built with JavaScript and the Chrome Extensions API.
-- 🌐 **Open Source Contributions** — Doing whatever i can.
+- 🤖 **AI Workbench (WIP)** — A backend system using Python + PostgreSQL for AI experiment management.
+- 🧩 **[Unlimited Chrome Shortcuts Extension](https://github.com/Mhmiah8/Unlimited-Shortcuts-Chrome-Extension/tree/main)** — An extension that allows more than 10 shortcuts, built with JavaScript and the Chrome Extensions API. (Currently over **2000** Users)
+- 🌐 **Open Source Contributions** — Doing whatever i can. (Recently contributed to a drugbase helping to combat parasitic worms)
 
 ### 🛠️ Tech Stack
 - **Languages:** Python, JavaScript, SQL  
