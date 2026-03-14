@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohammed
 
-I'm an **Undergraduate Computer Science student at the University of Westminster** with a strong interest in backend development, databases, and building practical tools. Here is my **[Portfolio site](https://student-stack.netlify.app/)**!
+I'm an **Undergraduate Computer Science student at the University of Westminster** with a strong interest in backend development, databases, and building practical tools. Here is my **[Portfolio site](https://mohammedmiah.netlify.app/)**!
 
 ### 🚀 Current Projects
 - 🧠 **[StudentStack](https://mhmiah8.github.io/StudentStack/code.html)** - The ultimate dashboard for Tech students. Access internships, verified course notes, hackathons, and funding opportunities in one place. 
